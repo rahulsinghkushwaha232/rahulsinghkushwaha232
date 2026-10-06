@@ -98,7 +98,7 @@ Building scalable full-stack applications with clean architecture
 
 ### 📈 Contribution Graph
 
-<img src="https://ghchart.rshah.org/58A6FF/rahulsinghkushwaha232" alt="Rahul's GitHub Contribution Chart" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulsinghkushwaha232&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF&hide_border=true" alt="Rahul's GitHub Activity Graph" width="100%" />
 
 ---
 
