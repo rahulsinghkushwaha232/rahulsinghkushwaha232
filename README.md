@@ -96,13 +96,9 @@ Building scalable full-stack applications with clean architecture
 
 ---
 
-### 🐍 Contribution
+### 📈 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulsinghkushwaha232/rahulsinghkushwaha232/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulsinghkushwaha232/rahulsinghkushwaha232/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rahulsinghkushwaha232/rahulsinghkushwaha232/output/github-snake.svg" />
-</picture>
+<img src="https://ghchart.rshah.org/58A6FF/rahulsinghkushwaha232" alt="Rahul's GitHub Contribution Chart" width="100%" />
 
 ---
 
@@ -117,7 +113,7 @@ Building scalable full-stack applications with clean architecture
 
 ---
 
-<img src="https://media.giphy.com/media/l3fZLMbuCOqT9TIDI/giphy.gif" width="600" alt="Oh, and in case I don't see ya, good afternoon, good evening and goodnight!" />
+<img src="https://media.tenor.com/e9H-iu7LXJYAAAAC/the-truman-show-jim-carrey.gif" width="600" alt="Oh, and in case I don't see ya, good afternoon, good evening and goodnight!" />
 
 ---
 
