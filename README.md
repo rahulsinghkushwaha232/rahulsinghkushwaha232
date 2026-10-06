@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
+  <img src="https://i.imgur.com/OVs5etE.gif" width="100%">
 </p>
 
 <p align="center">
@@ -124,8 +124,7 @@
 <p align="center">
   <a href="mailto:rahulsinghkushwaha231@gmail.com">email</a> ·
   <a href="https://www.linkedin.com/in/rahul-singh-kushwaha10/">linkedin</a> ·
-  <a href="https://vercel.com/rahulsinghkushwaha232">vercel</a> ·
-  <a href="https://dashboard.render.com/">render</a>
+  <a href="https://vercel.com/rahulsinghkushwaha232">vercel</a>
 </p>
 
 ---
