@@ -1,91 +1,109 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1200&center=true&vCenter=true&width=520&lines=Web+Developer;Cloud+%26+Backend+Enthusiast;Problem+Solver;Learning+by+Doing" />
+</p>
 
-<a href="https://github.com/rahulsinghkushwaha232">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Rahul+Singh+Kushwaha;Web+Developer;Learning+by+Doing;Problem+Solver;Cloud+%26+Backend+Enthusiast" alt="Typing SVG" />
-</a>
+<h1 align="center">Rahul Singh Kushwaha</h1>
 
-<p><em>building systems in silence • learning through depth • shipping with intent</em></p>
-
----
-
-### 🕯️ About me
-
-I move quietly through unfinished ideas,  
-learning to hold both doubt and direction at once.
-
-I'm drawn to systems the way others are drawn to noise —  
-the parts that work unseen,  
-the structure beneath the surface.
-
-Progress, for me, is not sudden clarity  
-but patience, repetition,  
-and choosing to keep going when no one is watching.
+<p align="center">
+  <i>building systems in silence • learning through depth • shipping with intent</i>
+</p>
 
 ---
 
-### 🧠 What I'm exploring
+<h2 align="center">🕯️ About me</h2>
+
+<p align="center">
+  I move quietly through unfinished ideas,<br/>
+  learning to hold both doubt and direction at once.
+</p>
+
+<p align="center">
+  I'm drawn to systems the way others are drawn to noise —<br/>
+  the parts that work unseen,<br/>
+  the structure beneath the surface.
+</p>
+
+<p align="center">
+  Progress, for me, is not sudden clarity<br/>
+  but patience, repetition,<br/>
+  and choosing to keep going when no one is watching.
+</p>
+
+---
+
+## 🧠 What I'm exploring
 
 <details>
-<summary>☁️ Cloud & Infrastructure</summary>
-<br/>
-AWS · Azure · Docker · Kubernetes · Jenkins · n8n
+<summary><strong>☁️ Cloud & Infrastructure</strong></summary>
+
+- AWS core services and deployment models
+- Cloud responsibility & scalability
+- Failure handling and trade-offs
+
 </details>
 
 <details>
-<summary>🤖 AI & Automation</summary>
-<br/>
-Exploring LLMs, workflow automation, and intelligent pipeline design
+<summary><strong>🤖 AI & Automation</strong></summary>
+
+- Prompt engineering & LLM workflows
+- NLP basics
+- AI-assisted tooling
+
 </details>
 
 <details>
-<summary>🌐 Web Engineering</summary>
-<br/>
-Building scalable full-stack applications with clean architecture
+<summary><strong>🌐 Web Engineering</strong></summary>
+
+- React / Node.js / Express
+- REST APIs & full-stack development
+- Clean architecture & scalable design
+
 </details>
 
 ---
 
-### 🛠️ Techstack
+## 🛠️ Techstack
 
-**☁️ Cloud & DevOps**
-
-<p>
+<p align="center"><strong>☁️ Cloud & DevOps</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins" />
 </p>
 
-**💻 Languages**
-
-<p>
+<p align="center"><strong>💻 Languages</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
-**🌐 Web**
-
-<p>
+<p align="center"><strong>🌐 Web</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,postman" />
 </p>
 
-**🗄️ Databases**
-
-<p>
+<p align="center"><strong>🗄️ Databases</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-**🔧 Tools**
-
-<p>
+<p align="center"><strong>🔧 Tools</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
 </p>
 
 ---
 
-### 📊 Stats
+## 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahulsinghkushwaha232&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulsinghkushwaha232&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsinghkushwaha232&theme=github-dark-blue&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsinghkushwaha232&theme=github-dark-blue&hide_border=true" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rahulsinghkushwaha232&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahulsinghkushwaha232&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
@@ -97,9 +115,9 @@ Building scalable full-stack applications with clean architecture
 
 ---
 
-### 🔗 Reach out
+## 🔗 Reach out
 
-<p>
+<p align="center">
   <a href="mailto:rahulsinghkushwaha231@gmail.com">email</a> ·
   <a href="https://www.linkedin.com/in/rahul-singh-kushwaha10/">linkedin</a> ·
   <a href="https://vercel.com/rahulsinghkushwaha232">vercel</a>
@@ -107,130 +125,12 @@ Building scalable full-stack applications with clean architecture
 
 ---
 
-<img src="https://media.giphy.com/media/l3fZLMbuCOqT9TIDI/giphy.gif" width="600" alt="Oh, and in case I don't see ya, good afternoon, good evening and goodnight!" />
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" />
-
-</div>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Rahul+Singh+Kushwaha;Web+Developer;Learning+by+Doing;Problem+Solver;Cloud+%26+Backend+Enthusiast" alt="Typing SVG" />
-</a>
-
-<p><em>building systems in silence • learning through depth • shipping with intent</em></p>
-
----
-
-### 🕯️ About me
-
-I move quietly through unfinished ideas,  
-learning to hold both doubt and direction at once.
-
-I'm drawn to systems the way others are drawn to noise —  
-the parts that work unseen,  
-the structure beneath the surface.
-
-Progress, for me, is not sudden clarity  
-but patience, repetition,  
-and choosing to keep going when no one is watching.
-
----
-
-### 🧠 What I'm exploring
-
-<details>
-<summary>☁️ Cloud & Infrastructure</summary>
-<br/>
-AWS · Azure · Docker · Kubernetes · Jenkins · n8n
-</details>
-
-<details>
-<summary>🤖 AI & Automation</summary>
-<br/>
-Exploring LLMs, workflow automation, and intelligent pipeline design
-</details>
-
-<details>
-<summary>🌐 Web Engineering</summary>
-<br/>
-Building scalable full-stack applications with clean architecture
-</details>
-
----
-
-### 🛠️ Techstack
-
-**☁️ Cloud & DevOps**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins" />
-</p>
-
-**💻 Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-</p>
-
-**🌐 Web**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,postman" />
-</p>
-
-**🗄️ Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-**🔧 Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode" />
+<p align="center">
+  <img src="https://i.imgur.com/OVs5etE.gif" width="600" alt="Oh, and in case I don't see ya, good afternoon, good evening and goodnight!" />
 </p>
 
 ---
 
-### 📊 Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rahulsinghkushwaha232&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsinghkushwaha232&theme=github-dark-blue&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rahulsinghkushwaha232&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
-
----
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulsinghkushwaha232&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF&hide_border=true" alt="Rahul's GitHub Activity Graph" width="100%" />
-
----
-
-### 🔗 Reach out
-
-<p>
-  <a href="mailto:rahulsinghkushwaha231@gmail.com">email</a> ·
-  <a href="https://www.linkedin.com/in/rahul-singh-kushwaha10/">linkedin</a> ·
-  <a href="https://vercel.com/rahulsinghkushwaha232">vercel</a> ·
-  <a href="https://dashboard.render.com/">render</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" />
 </p>
-
----
-
-<img src="https://media.tenor.com/e9H-iu7LXJYAAAAC/the-truman-show-jim-carrey.gif" width="600" alt="Oh, and in case I don't see ya, good afternoon, good evening and goodnight!" />
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" />
-
-</div>
