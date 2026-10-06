@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://i.imgur.com/OVs5etE.gif" width="100%">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1200&center=true&vCenter=true&width=520&lines=Web+Developer;Cloud+%26+Backend+Enthusiast;Problem+Solver;Learning+by+Doing" />
 </p>
 
@@ -121,12 +125,6 @@
   <a href="mailto:rahulsinghkushwaha231@gmail.com">email</a> ·
   <a href="https://www.linkedin.com/in/rahul-singh-kushwaha10/">linkedin</a> ·
   <a href="https://vercel.com/rahulsinghkushwaha232">vercel</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/OVs5etE.gif" width="600" alt="Oh, and in case I don't see ya, good afternoon, good evening and goodnight!" />
 </p>
 
 ---
