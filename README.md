@@ -125,6 +125,7 @@
   <a href="mailto:rahulsinghkushwaha231@gmail.com">email</a> ·
   <a href="https://www.linkedin.com/in/rahul-singh-kushwaha10/">linkedin</a> ·
   <a href="https://vercel.com/rahulsinghkushwaha232">vercel</a>
+  <a href="https://dashboard.render.com/rahulsinghkushwaha232">render</a>
 </p>
 
 ---
