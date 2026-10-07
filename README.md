@@ -12,6 +12,10 @@
   <i>building systems in silence • learning through depth • shipping with intent</i>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1200&center=true&vCenter=true&width=520&lines=Web+Developer;Cloud+%26+Backend+Enthusiast;Problem+Solver;Learning+by+Doing" />
+</p>
+
 ---
 
 <h2 align="center">🕯️ About me</h2>
